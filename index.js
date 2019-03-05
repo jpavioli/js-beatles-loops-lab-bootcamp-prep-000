@@ -7,3 +7,6 @@ function theBeatlesPlay(musicians, instruments){
   }
   return BeatlesPlay
 }
+
+//Beatles Loops johnLennonFacts returns an array of strings with exclamation points
+function johnLennonFacts()
