@@ -23,6 +23,8 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(number){
   var BeatlesLove =[]
   do {
-    
-  } while number >0
+    BeatlesLove.push("I love the Beatles!")
+    number--
+  } while number > 0
+  return BeatlesLove
 }
