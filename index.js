@@ -11,8 +11,10 @@ function theBeatlesPlay(musicians, instruments){
 //Beatles Loops johnLennonFacts returns an array of strings with exclamation points
 function johnLennonFacts(facts){
   var newFacts = []
-  for(var i=0;i<(facts.length);i++){
+  while(var i=0;i<(facts.length);i++){
     newFacts.push(facts[i]+"!!!")
   }
   return newFacts
 }
+
+//
